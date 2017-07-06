@@ -348,9 +348,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffcff', end
 
 
 
-
-
-
 input[type="radio"] {
     position: absolute;
     left: -999em;
